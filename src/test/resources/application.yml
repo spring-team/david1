@@ -1,2 +1,3 @@
 atomist:
-  enabled: false
+  enabled: falseraven:
+    dsn: 'abcd'
